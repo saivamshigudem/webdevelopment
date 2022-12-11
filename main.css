@@ -1,0 +1,10 @@
+.a{
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+.b{
+    display: flex;
+}
